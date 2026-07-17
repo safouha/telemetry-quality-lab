@@ -1,0 +1,32 @@
+sed: --: No such file or directory
+timestamp_column: timestamp
+calibration_fraction: 0.20
+
+cadence:
+  gap_factor: 1.5
+
+spike:
+  window: 31
+  min_periods: 15
+  threshold: 7.5
+
+flatline:
+  min_points: 12
+  tolerance_factor: 0.05
+
+shift:
+  window: 18
+  threshold: 4.0
+  persistence: 3
+
+noise:
+  window: 18
+  threshold: 3.0
+  persistence: 3
+
+quality_weights:
+  completeness: 0.25
+  timeliness: 0.20
+  uniqueness: 0.15
+  validity: 0.20
+  stability: 0.20

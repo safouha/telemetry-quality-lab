@@ -1,0 +1,22 @@
+timestamp_column: observed_at
+calibration_fraction: 0.25
+
+spike:
+  window: 25
+  min_periods: 12
+  threshold: 4.0
+
+flatline:
+  min_points: 10
+
+shift:
+  window: 15
+  threshold: 4.5
+  persistence: 3
+
+noise:
+  window: 15
+  threshold: 3.5
+  persistence: 3
+
+sed: --: No such file or directory

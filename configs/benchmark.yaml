@@ -1,0 +1,13 @@
+sed: --: No such file or directory
+scenarios:
+  - clean
+  - spikes
+  - outage
+  - flatline
+  - shift
+  - noise
+  - mixed
+duration: 48h
+frequency: 5min
+seeds: [11, 23, 47]
+
