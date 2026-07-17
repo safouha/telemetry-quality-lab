@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Rights
 
 Copyright © 2026 Safouh Al Ajlani. All rights reserved.

@@ -300,4 +300,3 @@ def forecast_command(
         )
     console.print(table)
     console.print(f"Report: {report}")
-sed: --: No such file or directory

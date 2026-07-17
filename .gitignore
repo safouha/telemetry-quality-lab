@@ -10,4 +10,3 @@ dist/
 artifacts/
 .DS_Store
 
-sed: --: No such file or directory

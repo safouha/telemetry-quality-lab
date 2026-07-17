@@ -218,8 +218,7 @@ def _quality_summary(
             "observations": raw_rows,
             "missing_points": sum(int(row["missing_points"]) for row in rows),
             "finding_count": len(findings),
-   sed: --: No such file or directory
-     }
+        }
         for name in numeric_dimensions:
             aggregate[name] = round(float(np.mean([float(row[name]) for row in rows])), 2)
         rows.insert(0, aggregate)

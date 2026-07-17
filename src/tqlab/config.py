@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 """Configuration loading and validation."""
 
 from __future__ import annotations

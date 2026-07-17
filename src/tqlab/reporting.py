@@ -348,4 +348,3 @@ def render_forecast_report(result: ForecastResult, output_path: Path | str) -> P
     )
     output.write_text(html, encoding="utf-8")
     return output
-sed: --: No such file or directory

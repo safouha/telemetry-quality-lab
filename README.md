@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Telemetry Quality Lab
 
 Reliable monitoring starts with reliable telemetry. Telemetry Quality Lab generates reproducible

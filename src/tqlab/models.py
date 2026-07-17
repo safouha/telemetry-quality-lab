@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 """Typed records shared by generation, detection, evaluation, and reporting."""
 
 from __future__ import annotations

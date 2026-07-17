@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 """Deterministic synthetic telemetry and labeled defect injection."""
 
 from __future__ import annotations

@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 """Causal, explainable data-quality detectors."""
 
 from __future__ import annotations

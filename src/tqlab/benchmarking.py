@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 """Reproducible multi-scenario benchmark orchestration."""
 
 from __future__ import annotations

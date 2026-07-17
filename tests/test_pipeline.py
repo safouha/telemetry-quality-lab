@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 from __future__ import annotations
 
 import pandas as pd

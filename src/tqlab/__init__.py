@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 """Telemetry Quality Lab public API."""
 
 from tqlab.evaluation import evaluate_findings

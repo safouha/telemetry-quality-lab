@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 """Chronological one-step-ahead forecasting baselines."""
 
 from __future__ import annotations

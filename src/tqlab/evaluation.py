@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 """Event-level and point-level evaluation against labeled synthetic defects."""
 
 from __future__ import annotations
